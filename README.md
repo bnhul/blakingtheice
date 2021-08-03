@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @blakingtheice
-- 👀 I’m interested in applications of machine learning and want to really dive into computer vision stuff :)
-- 🌱 I am about to graduate from my grad school program and am interested in learning more about computer vision stuff
+- 👋 Hi, I’m @blakingtheice.  I currently work at Ecolab doing some data science stuff within the safety department.
+- 👀 I’m interested in applications of machine learning to help improve the quality of life for people :)
+- 🌱 I am about to graduate from my master's program in data science, but I am really intrigued by artificial intelligence.
 - Probably going to throw a lot of my random goofy projects on here too haha.
 - You can reach me via email at blakingtheice@gmail.com for any questions
