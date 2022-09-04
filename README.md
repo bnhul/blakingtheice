@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @blakingtheice.  I currently work at Ecolab doing some data science stuff within the safety department.
 - 👀 I’m interested in applications of machine learning to help improve the quality of life for people :)
 - 🌱 I graduated from Georgia Tech with a Masters in Analytics.
-- Probably going to throw a lot of my random goofy projects on here too haha.
+- Probably going to throw a lot of my random goofy projects on here too :)
 - You can reach me via email at blakingtheice@gmail.com for any questions
