@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @blakingtheice.  I currently work at Ecolab doing some data science stuff within the safety department.
+- 👋 Hi, I’m @blakingtheice.  I currently work at U.S. Bank doing analytics work.
 - 👀 I’m interested in applications of machine learning to help improve the quality of life for people :)
 - 🌱 I graduated from Georgia Tech with a Masters in Analytics.
 - Probably going to throw a lot of my random goofy projects on here too :)
